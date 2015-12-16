@@ -1,0 +1,6 @@
+BACKGROUND      RCDATA  Textures\background.png
+ICON            RCDATA  Textures\icon.png
+CLOSE           RCDATA  Textures\close.png
+INFO            RCDATA  Textures\info.png
+LOAD            RCDATA  Textures\load.png
+SAVE            RCDATA  Textures\save.png
